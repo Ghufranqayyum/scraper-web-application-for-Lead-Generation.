@@ -1,0 +1,8 @@
+Flask==2.3.3
+selenium==4.15.2
+beautifulsoup4==4.12.2
+pandas==2.1.1
+pyautogui==0.9.54
+pygetwindow==0.0.9
+webdriver-manager==4.0.1
+sendgrid==6.10.0
