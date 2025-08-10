@@ -42,6 +42,9 @@ pip install -r requirements.txt
 ```bash
 export SENDGRID_API_KEY=your_sendgrid_api_key
 export FROM_EMAIL=your_verified_email@example.com
+Create your API Key and verify it
+Set your own Flask Api secret key in app.py
+set your facebook credential in facebook_scraper
 ```
 
 4. Run the application:
